@@ -1,2 +1,3 @@
-# css
-This is where I will put all of my CSS learnings
+# Resources
+* [5 CSS tricks every Web Developer should know in 2021](https://www.youtube.com/watch?v=wfaDzSL6ll0)
+*

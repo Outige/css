@@ -1,0 +1,1 @@
+[css clip path generator](https://bennettfeely.com/clippy/)
